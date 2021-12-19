@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Attack on Titan Characters Wiki</string>
+    <string name="nama_char">Nama Char</string>
+    <string name="name">Name :</string>
+    <string name="gender">Gender :</string>
+    <string name="species">Species :</string>
+    <string name="status">Status :</string>
+    <string name="character_about">Character About</string>
+    <string name="char_name">Char Name</string>
+    <string name="detail">Detail</string>
+    <string name="reference">Reference :</string>
+    <string name="your_name">Your Name</string>
+</resources>

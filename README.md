@@ -6,3 +6,7 @@ Tatakae tatakae
 
 The reference i got from the link Aot Fandom :
 https://attackontitan.fandom.com/wiki/Attack_on_Titan_Wiki#Manga_
+
+
+
+![aot_splash_screen](https://user-images.githubusercontent.com/56909339/146667618-f0b157f1-4790-435b-86ed-e381e2d52980.png)
